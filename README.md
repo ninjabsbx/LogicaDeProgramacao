@@ -5,16 +5,16 @@
 
 # Exercícios de Aula A1
 
-##Atividade 1
+## Atividade 1
 * [Exercicio 1](Exercicio1)
 * [Exercicio 2](Exercicio2)
 
-##Atividade 2
-* [Exercicio 3](Exercicio 3)
-* [Exercicio 4](Exercicio 4)
-* [Exercicio 5](Exercicio 5)
+## Atividade 2
+* [Exercicio 3](Exercicio%203)
+* [Exercicio 4](Exercicio%204)
+* [Exercicio 5](Exercicio%205)
 
-##Atividade 3
+## Atividade 3
 * [Exercicio 6](Exercicio6)
 * [Exercicio 7](Exercicio7)
-* [Exercicio 8](Exercicio 8)
+* [Exercicio 8](Exercicio%208)
