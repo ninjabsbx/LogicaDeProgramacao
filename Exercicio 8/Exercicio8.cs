@@ -1,0 +1,14 @@
+﻿string line;
+StreamReader sr = new StreamReader("medidas.txt");
+line = sr.ReadLine();
+string[] fields = line.Split(' ');
+decimal A, B, C, Pi = Convert.ToDecimal(3.14159);
+A = decimal.Parse (fields[0]); 
+B = decimal.Parse(fields[1]);
+C = decimal.Parse(fields[2]);
+// Console.WriteLine( ">>> " + A + "  ;  " + B + "  ;  " + C);
+Console.WriteLine("TRIANGULO = " + (A * C / 2));
+Console.WriteLine("CIRCULO = " + (Pi * C * C));
+Console.WriteLine("TRAPEZIO = " + ((A + B) * C/2));
+Console.WriteLine("QUADRADO = " + (B * B));
+Console.WriteLine("RETANGULO = " + (A * B));
