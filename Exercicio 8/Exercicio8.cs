@@ -11,4 +11,4 @@ Console.WriteLine("TRIANGULO = " + (A * C / 2));
 Console.WriteLine("CIRCULO = " + (Pi * C * C));
 Console.WriteLine("TRAPEZIO = " + ((A + B) * C/2));
 Console.WriteLine("QUADRADO = " + (B * B));
-Console.WriteLine("RETANGULO = " + (A * B));
+Console.WriteLine("RETANGULO = " + (A * B)); 

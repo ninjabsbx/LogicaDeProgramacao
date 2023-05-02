@@ -18,3 +18,9 @@
 * [Exercicio 6](Exercicio6)
 * [Exercicio 7](Exercicio7)
 * [Exercicio 8](Exercicio%208)
+
+## Atividade 4
+* [Exercicio 9](Exercicio%209)
+* [Exercicio 10](Exercicio%2010)
+
+

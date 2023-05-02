@@ -1,0 +1,25 @@
+﻿string line;
+StreamReader sr = new StreamReader("entrada.txt");
+double intervalo = double.Parse(Console.ReadLine(), null);
+
+if (intervalo >= 0.00 && intervalo <= 25.00)
+{
+    Console.WriteLine("Intervalo [0,25]");
+}
+else if (intervalo > 25.00 && intervalo <= 50.00)
+{
+
+    Console.WriteLine("Intervalo (25,50]");
+}
+else if (intervalo > 50.00 && intervalo <= 75.00)
+{
+    Console.WriteLine("Intervalo (50,75]");
+}
+else if (intervalo > 75.00 && intervalo < 100.00)
+{
+    Console.WriteLine("Intervalo (75,100)");
+}
+else
+{
+    Console.WriteLine("Fora de Intervalo");
+}
