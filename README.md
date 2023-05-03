@@ -24,7 +24,7 @@
 * [Exercicio 10](Exercicio%2010)
 
 ## Atividade 5
-* [Exercicio 11]
-* [Exercicio 12]
+* [Exercicio 11](Exercicio%2011)
+* [Exercicio 12](Exercicio%2012)
 
 
