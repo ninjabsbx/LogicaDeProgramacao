@@ -31,4 +31,4 @@
 * [Exercicio 13](Exercicio%2013)
 * [Exercicio 14](Exercicio%2014)
 * [Exercicio 15](Exercicio%2015)
-* [Exercicio 15](Exercicio%2016)
+* [Exercicio 16](Exercicio%2016)
