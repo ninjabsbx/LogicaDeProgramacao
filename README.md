@@ -38,3 +38,6 @@
 * [Exercicio 18](Exercicio%2018)
 * [Exercicio 19](Exercicio%2019)
 
+## Atividade 8
+* [Exercicio 20](Exercicio%2020)
+* [Exercicio 21](Exercicio%2021)

@@ -1,6 +1,14 @@
 ﻿int X = int.Parse(Console.ReadLine());
-for (int n = 1; n <= X; n += 2)
+if (X > 1000 || X < 1)
 {
-    Console.WriteLine(n);
+    Console.WriteLine("Erro valor deve entre 1 e 1000");
 }
+else
+{
+    for (int n = 1; n <= X; n += 2)
+    {
+        Console.WriteLine(n);
+    }
+}
+
 
