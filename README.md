@@ -41,3 +41,7 @@
 ## Atividade 8
 * [Exercicio 20](Exercicio%2020)
 * [Exercicio 21](Exercicio%2021)
+## Atividade 9
+* [Exercicio 22](Exercicio%2022)
+
+## Atividade 10
