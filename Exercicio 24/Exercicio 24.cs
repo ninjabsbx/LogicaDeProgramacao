@@ -1,24 +1,13 @@
-﻿using System;
-
-class Program
+﻿int X = int.Parse(Console.ReadLine());
+if (X > 1000 || X < 1)
 {
-    static void Main()
+    Console.WriteLine("Erro valor deve entre 1 e 1000");
+}
+else
+{
+    for (int n = 1; n <= X; n += 2)
     {
-        Console.Write("Enter the number of lines to read (1 < N < 1000): ");
-        int n = int.Parse(Console.ReadLine());
-
-        if (n <= 1 || n >= 1000)
-        {
-            Console.WriteLine("Invalid input. N must be between 1 and 1000.");
-            return;
-        }
-
-        Console.WriteLine("Enter the {0} lines:", n);
-
-        for (int i = 0; i < n; i++)
-        {
-            string line = Console.ReadLine();
-            Console.WriteLine("Line {0}: {1}", i + 1, line);
-        }
+        Console.WriteLine(n);
     }
 }
+  

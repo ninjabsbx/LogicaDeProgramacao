@@ -45,3 +45,5 @@
 * [Exercicio 22](Exercicio%2022)
 
 ## Atividade 10
+* [Exercicio 23](Exercicio%2023)
+* [Exercicio 24](Exercicio%2024)
