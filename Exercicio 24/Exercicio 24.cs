@@ -5,9 +5,8 @@ if (X > 1000 || X < 1)
 }
 else
 {
-    for (int n = 1; n <= X; n += 2)
+    for (int n = 1; n <= X; n += 1)
     {
-        Console.WriteLine(n);
+        Console.WriteLine(n + " " + n * n + " " + n * n * n);
     }
-}
-  
+} 

@@ -11,13 +11,8 @@ else
     m = Y + 1;
     n = X;
 }
-if (m % 2 == 0) m++; //X PAR ==> IMPAR SEGUINTE
-int soma = 0;
-for (; m < n; m += 2)
+for (; m < n; m += 1)
 {
-    soma += m+5;
+    if (m % 5 == 2 || m % 5 == 3) 
+        Console.WriteLine(m);
 }
-Console.WriteLine(soma);
-
-
-
