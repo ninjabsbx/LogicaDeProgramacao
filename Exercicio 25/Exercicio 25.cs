@@ -1,13 +1,17 @@
 ﻿int N = int.Parse(Console.ReadLine());
-N = 0;
 int fatorial = 1;
-Console.ReadLine();
 if (N < 0)
 {
     Console.Write("Erro! Nao pode ter numero negativo");
 }
-else if N == 1 || N == 1 {
-     
+ if (N == 0 || N == 1) {
+     Console.WriteLine("Fatorial e 1. ");
 }
- 
+else
+{
+    for (int i = N; i > 1; i--)
+        fatorial = fatorial * i;
+    Console.WriteLine("Fatorial e " + fatorial);
+}
+
 
